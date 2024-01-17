@@ -1,0 +1,13 @@
+../Core/Src/flight.c:41:6:init_flight	2
+../Core/Src/flight.c:61:6:flight_heartbeat	5
+../Core/Src/flight.c:97:16:flight_state_init	1
+../Core/Src/flight.c:103:16:flight_state_pad	5
+../Core/Src/flight.c:124:16:flight_state_motor_burn	4
+../Core/Src/flight.c:146:16:flight_state_ascent	2
+../Core/Src/flight.c:159:16:flight_state_descent	4
+../Core/Src/flight.c:180:16:flight_state_landed	1
+../Core/Src/flight.c:186:7:interpolate_height_agl	1
+../Core/Src/flight.c:190:6:flight_log	1
+../Core/Src/flight.c:197:21:flight_data	1
+../Core/Src/flight.c:201:6:fire_ejection_charge	1
+../Core/Src/flight.c:205:6:activate_beepx	1

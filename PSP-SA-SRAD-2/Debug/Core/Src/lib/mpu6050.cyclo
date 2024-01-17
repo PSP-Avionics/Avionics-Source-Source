@@ -1,0 +1,5 @@
+../Core/Src/lib/mpu6050.c:62:6:mpu6050_init	2
+../Core/Src/lib/mpu6050.c:89:6:mpu6050_read_accel	2
+../Core/Src/lib/mpu6050.c:111:6:mpu6050_read_gyro	2
+../Core/Src/lib/mpu6050.c:135:13:i2c_write	2
+../Core/Src/lib/mpu6050.c:145:16:i2c_read	2

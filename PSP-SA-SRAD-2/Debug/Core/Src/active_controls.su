@@ -1,0 +1,5 @@
+../Core/Src/active_controls.c:17:6:init_active_controls	24	static
+../Core/Src/active_controls.c:29:13:active_controls_heartbeat	120	static
+../Core/Src/active_controls.c:61:14:predict_apogee	32	static
+../Core/Src/active_controls.c:70:13:retract_airbrakes	4	static
+../Core/Src/active_controls.c:74:13:deploy_airbrakes	4	static

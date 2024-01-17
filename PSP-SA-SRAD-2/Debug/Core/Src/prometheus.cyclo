@@ -1,0 +1,3 @@
+../Core/Src/prometheus.c:22:13:dump_and_reset_buffer	4
+../Core/Src/prometheus.c:46:13:prometheus_heartbeat	3
+../Core/Src/prometheus.c:63:6:init_prometheus	1

@@ -1,0 +1,16 @@
+../Core/Src/altimeter_old.c:54:6:old_init_altimeter	120	static
+../Core/Src/altimeter_old.c:72:13:init_bmp280_dev	16	static
+../Core/Src/altimeter_old.c:108:13:init_bme280_dev	40	static
+../Core/Src/altimeter_old.c:158:6:old_query_pressure	16	static
+../Core/Src/altimeter_old.c:172:15:get_sensor_data	56	static
+../Core/Src/altimeter_old.c:189:13:altimeter_heartbeat	16	static
+../Core/Src/altimeter_old.c:217:8:old_get_altitude_meters	48	static
+../Core/Src/altimeter_old.c:236:8:old_get_altitude_feet	24	static
+../Core/Src/altimeter_old.c:246:6:bmp280_delay_ms	16	static
+../Core/Src/altimeter_old.c:250:6:bme280_delay_us	16	static
+../Core/Src/altimeter_old.c:254:15:is_pressure_data_ok	16	static
+../Core/Src/altimeter_old.c:260:8:ioSpiRead	32	static
+../Core/Src/altimeter_old.c:302:8:ioSpiWrite	32	static
+../Core/Src/altimeter_old.c:342:8:ioI2CWrite	48	static
+../Core/Src/altimeter_old.c:359:8:ioI2CRead	40	static
+../Core/Src/altimeter_old.c:375:9:old_altimeter_init_rslts_arr	4	static

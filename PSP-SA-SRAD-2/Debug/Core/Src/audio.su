@@ -1,0 +1,7 @@
+../Core/Src/audio.c:66:6:init_audio	24	static
+../Core/Src/audio.c:84:6:morse_code	48	static
+../Core/Src/audio.c:101:13:audio_heartbeat	56	static
+../Core/Src/audio.c:143:13:morse_beep	8	static
+../Core/Src/audio.c:148:13:morse_dash	8	static
+../Core/Src/audio.c:153:7:audio_thread	16	static
+../Core/Src/audio.c:165:13:tune	16	static

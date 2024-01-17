@@ -1,0 +1,4 @@
+../Core/Src/tracking.c:17:7:tracking_currentLat	1
+../Core/Src/tracking.c:21:7:tracking_currentLong	1
+../Core/Src/tracking.c:25:13:tracking_heartbeat	1
+../Core/Src/tracking.c:35:6:init_tracking	1

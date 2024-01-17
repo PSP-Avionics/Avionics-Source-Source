@@ -1,0 +1,12 @@
+../Core/Src/lib/W25Q.c:34:6:wq_init	16	static
+../Core/Src/lib/W25Q.c:43:6:wq_not_busy	16	static
+../Core/Src/lib/W25Q.c:49:6:wq_get_jedec_id	24	static
+../Core/Src/lib/W25Q.c:57:6:wq_chip_erase	16	static
+../Core/Src/lib/W25Q.c:68:6:wq_read_page	16	static
+../Core/Src/lib/W25Q.c:72:6:wq_read_all_pages	280	static
+../Core/Src/lib/W25Q.c:81:6:wq_write_byte	288	static
+../Core/Src/lib/W25Q.c:88:6:wq_write_bytes	304	static
+../Core/Src/lib/W25Q.c:134:13:_wq_get_jedec_id	24	static
+../Core/Src/lib/W25Q.c:145:13:_wq_read_page	24	static
+../Core/Src/lib/W25Q.c:157:13:_wq_read_page_internal	24	static
+../Core/Src/lib/W25Q.c:161:13:_wq_write_page	24	static

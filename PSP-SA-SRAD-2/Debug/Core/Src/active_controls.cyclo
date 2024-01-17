@@ -1,0 +1,5 @@
+../Core/Src/active_controls.c:17:6:init_active_controls	1
+../Core/Src/active_controls.c:29:13:active_controls_heartbeat	4
+../Core/Src/active_controls.c:61:14:predict_apogee	1
+../Core/Src/active_controls.c:70:13:retract_airbrakes	1
+../Core/Src/active_controls.c:74:13:deploy_airbrakes	1

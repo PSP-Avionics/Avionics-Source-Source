@@ -1,0 +1,4 @@
+../Core/Src/accelerometer.c:23:6:init_accelerometer	24	static
+../Core/Src/accelerometer.c:41:13:accelerometer_heartbeat	40	static
+../Core/Src/accelerometer.c:68:6:accel_acceleration	16	static
+../Core/Src/accelerometer.c:74:6:accel_gyro	16	static

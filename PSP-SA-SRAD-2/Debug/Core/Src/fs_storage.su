@@ -1,0 +1,7 @@
+../Core/Src/fs_storage.c:33:6:init_storage	24	static
+../Core/Src/fs_storage.c:87:6:storage_log	16	static
+../Core/Src/fs_storage.c:98:6:mkfile_and_dump	136	static
+../Core/Src/fs_storage.c:110:6:storage_finish_flight	16	static
+../Core/Src/fs_storage.c:127:10:get_file_count	96	static
+../Core/Src/fs_storage.c:147:6:storage_write_to_flash	16	static
+../Core/Src/fs_storage.c:156:6:check_ff_status	24	static

@@ -1,0 +1,14 @@
+../Core/Src/altimeter.c:54:15:BMP280_SPI_Write	24	static
+../Core/Src/altimeter.c:83:15:BMP280_SPI_Read	24	static
+../Core/Src/altimeter.c:111:13:i2c_check	16	static
+../Core/Src/altimeter.c:157:17:read_pressure	24	static
+../Core/Src/altimeter.c:185:6:init_altimeter	32	static
+../Core/Src/altimeter.c:235:13:altimeter_heartbeat	16	static
+../Core/Src/altimeter.c:242:13:query_sensor	16	static
+../Core/Src/altimeter.c:258:8:get_altitude_feet	40	static
+../Core/Src/altimeter.c:282:8:get_last_pressure_data	4	static
+../Core/Src/altimeter.c:286:8:get_last_temperature_data	4	static
+../Core/Src/altimeter.c:290:9:get_last_pressure_data_raw	4	static
+../Core/Src/altimeter.c:294:9:get_last_temperature_data_raw	4	static
+../Core/Src/altimeter.c:298:15:bmp280_i2c_reg_read	48	static
+../Core/Src/altimeter.c:312:15:bmp280_i2c_reg_write	48	static

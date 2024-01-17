@@ -1,0 +1,5 @@
+../Core/Src/radio/telemetry.c:30:6:reset_telemetry	1
+../Core/Src/radio/telemetry.c:92:6:init_telemetry	1
+../Core/Src/radio/telemetry.c:132:6:telemetry_heartbeat	2
+../Core/Src/radio/telemetry.c:145:6:telemetry_send	3
+../Core/Src/radio/telemetry.c:175:6:telemetry_RxCplt	1
